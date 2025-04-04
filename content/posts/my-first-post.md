@@ -1,7 +1,7 @@
 +++
 date = '2025-04-04T12:32:59-05:00'
 
-title = 'My First Post'
+title = 'Basic Overview of the Premise'
 +++
 
 # RPG Setting: Space Train Concept
