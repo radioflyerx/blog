@@ -1,4 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://radioflyerx.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Fate-Train'
 theme = 'anatole'
+
+[params]
+title = "Fate-Train"
+author = "Daryl"
+description = "Story and planning for a Fate Accelerated TTRPG campaign"
+profilePicture = "images/profile.jpg"
