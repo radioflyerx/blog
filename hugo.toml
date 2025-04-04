@@ -8,4 +8,4 @@ title = "Fate-Train"
 author = "Daryl"
 description = """Story and planning for a
 Fate Accelerated TTRPG campaign"""
-profilePicture = '/images/profile.jpg'
+profilePicture = "images/profile.jpg"
