@@ -6,5 +6,6 @@ theme = 'anatole'
 [params]
 title = "Fate-Train"
 author = "Daryl"
-description = "Story and planning for a Fate Accelerated TTRPG campaign"
-profilePicture = "images/profile.jpg"
+description = """Story and planning 
+for a Fate Accelerated TTRPG campaign"""
+profilePicture = "themes/anatole/images/profile.jpg"
