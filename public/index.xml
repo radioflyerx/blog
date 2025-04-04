@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Apr 2025 12:34:33 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Player Characters &amp; Backstory</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Fri, 04 Apr 2025 12:34:33 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      
+        <description>&lt;p&gt;**&lt;/p&gt;
+&lt;h1 id=&#34;the-players&#34;&gt;The Players&lt;/h1&gt;
+&lt;p&gt;**&lt;/p&gt;
+&lt;h2 id=&#34;ben&#34;&gt;Ben&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sid “The Cannoli Kid”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Baseline Human. Former Member of Italian mafia type organization(name?). Really only wants to be the cook. Always dragged along as muscle. Try’s to walk away but is easily pulled back in by sentiment.&lt;/p&gt;
+&lt;p&gt;Has a dog name Sherlock. Distracting and lazy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High concept&lt;/strong&gt;: Transitional member of IBM (Italian Bear Mafia)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trouble&lt;/strong&gt;: They always know how to pull me back in&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aspect 1&lt;/strong&gt;: These hands can beat more than dough&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 04 Apr 2025 12:32:59 -0500</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+        <description>&lt;h1 id=&#34;rpg-setting-space-train-concept&#34;&gt;RPG Setting: Space Train Concept&lt;/h1&gt;
+&lt;h2 id=&#34;premise&#34;&gt;Premise&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;In Earth’s near future, a &lt;strong&gt;massive space vessel&lt;/strong&gt; appears intermittently:&lt;/li&gt;
+&lt;li&gt;Arrives every few years, stays for a week, then disappears.&lt;/li&gt;
+&lt;li&gt;Returns on a predictable schedule.&lt;/li&gt;
+&lt;li&gt;Humans discover the vessel can &lt;strong&gt;&amp;ldquo;pull&amp;rdquo; objects&lt;/strong&gt; attached to it.&lt;/li&gt;
+&lt;li&gt;Over &lt;strong&gt;hundreds of years&lt;/strong&gt;, it evolves into a &lt;strong&gt;giant space train&lt;/strong&gt; with countless attached modules (&amp;ldquo;cars&amp;rdquo;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;the-trains-structure&#34;&gt;The Train’s Structure&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Engine&lt;/strong&gt;: A mile-wide (or larger) spaceship of ancient/origin unknown.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cars&lt;/strong&gt;:  Ragtag conglomerations of ships, cargo containers, and makeshift additions.&lt;/li&gt;
+&lt;li&gt;New additions are glued to the &lt;strong&gt;back&lt;/strong&gt;; older sections near the front resemble original ships.&lt;/li&gt;
+&lt;li&gt;Cars are &lt;strong&gt;miles wide/tall&lt;/strong&gt; but shrink in size toward the rear.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;No physical connections&lt;/strong&gt;: Cars float ~0.25 miles apart, held by an &lt;strong&gt;engine-generated field&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Irreversible attachment&lt;/strong&gt;: Anything added becomes permanent—no retrieving ships or cargo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;scale--civilization&#34;&gt;Scale &amp;amp; Civilization&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Massive&lt;/strong&gt;: Up to &lt;strong&gt;1,000 miles long&lt;/strong&gt;, hundreds of cars.&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Functions like a nation-state&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;No war allowed&lt;/strong&gt; between cars.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Communist base layer&lt;/strong&gt;: Guaranteed shelter, food, and water for all.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Capitalist top layer&lt;/strong&gt;: Old West-style free-market economy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Population&lt;/strong&gt;: Humans live aboard permanently AND colonize habitable worlds the train passes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;communication-rules&#34;&gt;Communication Rules&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;No radio/digital signals&lt;/strong&gt;: All communication is either:&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
