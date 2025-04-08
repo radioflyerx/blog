@@ -4,8 +4,9 @@ title = 'Fate-Train'
 theme = 'anatole'
 
 [params]
-title = "Fate-Train"
+title = "Goofs on a train"
 author = "Daryl"
 description = """Story and planning for a
 Fate Accelerated TTRPG campaign"""
 profilePicture = "images/profile.png"
+favicon = "favicons/favicon-16x16.png"
